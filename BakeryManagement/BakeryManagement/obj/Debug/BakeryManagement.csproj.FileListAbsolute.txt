@@ -1,0 +1,165 @@
+D:\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe.config
+D:\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.pdb
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.AssemblyReference.cache
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.WelcomePage.resources
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Properties.Resources.resources
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.GenerateResource.cache
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.CoreCompileInputs.cache
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.pdb
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustRegistration.resources
+D:\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.LogIn1.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.AssemblyReference.cache
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.exe
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.pdb
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe.config
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.pdb
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustRegistration.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.LogIn1.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.WelcomePage.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Properties.Resources.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.GenerateResource.cache
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.CoreCompileInputs.cache
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Resources.CustomerLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CakeDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.SpecialDashbord.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerInformed.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerManage.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageBaker.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\FALL 25\C# Project\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageManager.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe.config
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.pdb
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.AssemblyReference.cache
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminDashboard.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminLogin.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerInformed.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CakeDashboard.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerDashboard.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerLogin.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerManage.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustRegistration.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.LogIn1.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageBaker.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageManager.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerDashboard.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerLogin.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Resources.CustomerLogin.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.SpecialDashbord.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.WelcomePage.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Properties.Resources.resources
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.GenerateResource.cache
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.CoreCompileInputs.cache
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement p3\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.pdb
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe.config
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.pdb
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.AssemblyReference.cache
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminDashboard.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminLogin.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerInformed.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CakeDashboard.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerDashboard.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerLogin.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerManage.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustRegistration.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.LogIn1.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageBaker.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageManager.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerDashboard.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerLogin.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Resources.CustomerLogin.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.SpecialDashbord.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.WelcomePage.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Properties.Resources.resources
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.GenerateResource.cache
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.CoreCompileInputs.cache
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement p4\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.pdb
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe.config
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.pdb
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.AssemblyReference.cache
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminDashboard.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminLogin.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerInformed.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CakeDashboard.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerDashboard.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerLogin.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerManage.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustRegistration.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.LogIn1.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageBaker.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerDashboard.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerLogin.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Resources.CustomerLogin.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.SpecialDashbord.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.WelcomePage.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Properties.Resources.resources
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.GenerateResource.cache
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.CoreCompileInputs.cache
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.exe
+D:\BakeryManagement\BakeryManagement p5\BakeryManagement\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.pdb
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.AssemblyReference.cache
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerInformed.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CakeDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerManage.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustRegistration.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.LogIn1.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageBaker.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Resources.CustomerLogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.SpecialDashbord.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.WelcomePage.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Properties.Resources.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.GenerateResource.cache
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.CoreCompileInputs.cache
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.exe
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.pdb
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe.config
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.pdb
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerDashboard.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Bakerlogin.resources
+C:\Users\almas\OneDrive\Documents\OneDrive\Desktop\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Purchase.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe.config
+D:\All\C#project\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.exe
+D:\All\C#project\BakeryManagement\BakeryManagement\bin\Debug\BakeryManagement.pdb
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.AssemblyReference.cache
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminLogin.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerDashboard.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.BakerInformed.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Bakerlogin.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CakeDashboard.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerDashboard.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerLogin.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustomerManage.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.CustRegistration.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.LogIn1.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManageBaker.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.AdminDashboard.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerDashboard.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.ManagerLogin.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Purchase.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Resources.CustomerLogin.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.SpecialDashbord.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.WelcomePage.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.Properties.Resources.resources
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.GenerateResource.cache
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.csproj.CoreCompileInputs.cache
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.exe
+D:\All\C#project\BakeryManagement\BakeryManagement\obj\Debug\BakeryManagement.pdb
